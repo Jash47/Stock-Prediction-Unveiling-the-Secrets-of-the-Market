@@ -1,5 +1,5 @@
-# Stock Market Prediction and Forecasting Using Stacked LSTM
-Welcome to the Stock Market Prediction and Forecasting Using Stacked LSTM repository! This project focuses on utilizing deep learning techniques, specifically Stacked Long Short-Term Memory (LSTM) models, to predict and forecast stock market prices. This README file provides an overview of the project, its contents, and instructions to get started. 
+# Stock Prediction: Unveiling the Secrets of the Market
+Welcome to the Stock Prediction: Unveiling the Secrets of the Market repository! This project focuses on utilizing deep learning techniques, specifically Stacked Long Short-Term Memory (LSTM) models, to predict and forecast stock market prices. This README file provides an overview of the project, its contents, and instructions to get started. 
 
 ## Project Overview:
 The Stock Market Prediction and Forecasting Using Stacked LSTM project aims to leverage the power of deep learning to predict and forecast stock market prices. By analyzing historical stock market data and incorporating features like technical indicators, this project explores the potential of Stacked LSTM models to capture the temporal dependencies and patterns within the financial time series.
